@@ -1,0 +1,10 @@
+@import 'vendors/mixin';    //миксин 
+
+@import 'base/color';       //цвета
+@import 'base/normalize';   //нормалайз
+@import 'base/typography';  //шрифты
+
+@import 'layout/header';    //футер
+@import 'layout/footer';    //хеадер
+
+@import 'pages/home';       //главная страниа

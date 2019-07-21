@@ -1,0 +1,23 @@
+.navbar-brand{
+
+    &__img{
+        width: 220px;
+        height: auto;
+    }
+}
+
+.myNavbar{
+    background-color: $white !important;
+}
+
+.header-container{
+    height: 62px;
+}
+
+.video-container{
+    padding: 0 !important; 
+}
+
+.dropdown-toggle::after{
+    display: none;
+}
